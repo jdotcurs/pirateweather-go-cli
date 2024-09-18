@@ -3,7 +3,7 @@ module github.com/jdotcurs/pirateweather-go-cli
 go 1.21.6
 
 require (
-	github.com/jdotcurs/pirateweather-go v0.1.0
+	github.com/jdotcurs/pirateweather-go v0.1.1
 	github.com/spf13/cobra v1.8.1
 )
 
