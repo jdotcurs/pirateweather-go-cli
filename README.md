@@ -18,7 +18,7 @@ Before using the CLI, set your Pirate Weather API key as an environment variable
 export PIRATE_WEATHER_API_KEY=<your-api-key>
 ```
 
-You can find your API key in your [Pirate Weather account settings](https://pirateweather.net/account).
+You can find your API key in your [Pirate Weather account settings](https://pirate-weather.apiable.io).
 
 
 ### Interactive Mode
